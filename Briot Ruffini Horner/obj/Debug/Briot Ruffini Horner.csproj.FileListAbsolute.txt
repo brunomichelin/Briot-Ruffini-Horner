@@ -1,0 +1,6 @@
+c:\users\xp\documents\visual studio 2012\Projects\Briot Ruffini Horner\Briot Ruffini Horner\bin\Debug\Briot Ruffini Horner.exe.config
+c:\users\xp\documents\visual studio 2012\Projects\Briot Ruffini Horner\Briot Ruffini Horner\bin\Debug\Briot Ruffini Horner.exe
+c:\users\xp\documents\visual studio 2012\Projects\Briot Ruffini Horner\Briot Ruffini Horner\bin\Debug\Briot Ruffini Horner.pdb
+c:\users\xp\documents\visual studio 2012\Projects\Briot Ruffini Horner\Briot Ruffini Horner\obj\Debug\Briot Ruffini Horner.csprojResolveAssemblyReference.cache
+c:\users\xp\documents\visual studio 2012\Projects\Briot Ruffini Horner\Briot Ruffini Horner\obj\Debug\Briot Ruffini Horner.exe
+c:\users\xp\documents\visual studio 2012\Projects\Briot Ruffini Horner\Briot Ruffini Horner\obj\Debug\Briot Ruffini Horner.pdb
